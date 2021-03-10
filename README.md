@@ -1,1 +1,1 @@
-Hi there,:smiley:, most beautiful thing a human can do is learning !:green_heart:	
+Hi there, :dart:	, most beautiful thing a human can do is learning !:green_heart:	
