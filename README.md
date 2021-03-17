@@ -2,4 +2,4 @@
 
 >***CONNECTING NEURONS IN BRAIN*** :brain:	
 
-![alt text](http://www.kurzweilai.net/images/brain-network.png)
+<img src="http://www.kurzweilai.net/images/brain-network.png" width="400" height="400">
