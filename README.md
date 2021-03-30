@@ -2,7 +2,7 @@
 
 >***CONNECTING NEURONS IN BRAIN*** :brain:	
 
- <img src="http://www.kurzweilai.net/images/brain-network.png"  width="350" height="350">
+ <img src="http://www.kurzweilai.net/images/brain-network.png"  width="250" height="250">
  
 ![Ajai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajai-cr7&show_icons=true&theme=merko)
 
